@@ -56,7 +56,6 @@
                     <connections>
                         <outlet property="mealNameLabel" destination="Y1p-jF-Q7R" id="kN4-Gv-gKC"/>
                         <outlet property="nameTextField" destination="7Wq-d0-yEg" id="XlS-6v-eqN"/>
-                        <outlet property="setDefaultLabelText" destination="MG2-uX-GRO" id="JMu-pr-VQl"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
