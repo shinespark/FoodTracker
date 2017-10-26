@@ -4,6 +4,7 @@
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
+        <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13174"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -56,7 +57,6 @@
                     <connections>
                         <outlet property="mealNameLabel" destination="Y1p-jF-Q7R" id="kN4-Gv-gKC"/>
                         <outlet property="nameTextField" destination="7Wq-d0-yEg" id="XlS-6v-eqN"/>
-                        <outlet property="setDefaultLabelText" destination="MG2-uX-GRO" id="JMu-pr-VQl"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
